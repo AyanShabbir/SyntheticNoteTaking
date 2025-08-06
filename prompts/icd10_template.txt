@@ -1,0 +1,7 @@
+Based on the following clinical note, provide the most relevant ICD-10 code(s):
+
+{clinical_note}
+
+Format the response as:
+ICD-10 Code: [code]
+Description: [short description]

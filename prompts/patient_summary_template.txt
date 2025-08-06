@@ -1,0 +1,5 @@
+Generate a simple, patient-friendly summary explaining the medical condition based on the following clinical note:
+
+{clinical_note}
+
+Explain it in clear, simple language suitable for a patient without medical training.

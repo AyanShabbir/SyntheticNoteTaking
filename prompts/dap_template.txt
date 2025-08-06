@@ -1,0 +1,11 @@
+Generate a DAP clinical note using the following patient details:
+
+Name: {name}
+Age: {age}
+Gender: {gender}
+
+Data: {complaint}, {symptoms}, {history}, {vitals}, {medications}, {allergies}
+
+Assessment: Provide your medical assessment.
+
+Plan: Provide your treatment and follow-up plan.
